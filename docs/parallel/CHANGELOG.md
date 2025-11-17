@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 - Thread pool default core size increased from 1 to 10
-- Engine dependency changed to version range `[1.3.0,)` allowing newer versions
+- Engine dependency changed to version range `[1.3.1,)` allowing newer versions
 - Enhanced POM configuration for standalone Maven Central publishing
 
 ### Fixed
@@ -29,6 +29,9 @@ All notable changes to this project will be documented in this file.
 - Added `ConcurrencySafety.md` for branch merging lock mechanism documentation
 - Updated `Parallel&InclusiveGateway.md` with quick start guide, nested gateway documentation, and concurrency safety guide
 - Cross-referenced documentation for better navigation
+
+### Support
+- turbo 1.3.1+
 
 ## [1.1.0] - 2025-10-29
 
